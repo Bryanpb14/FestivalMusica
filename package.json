@@ -1,0 +1,31 @@
+{
+    "name": "festivalmusica_inicio",
+    "version": "1.0.0",
+    "description": "Aprendiendo Gulp y SASS",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Bryanpb14/GULP-Y-SASS.git"
+    },
+    "keywords": [
+        "SASS",
+        "Gulp",
+        "Web",
+        "Design"
+    ],
+    "author": "Brayan Pineros Bolivar",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Bryanpb14/GULP-Y-SASS/issues"
+    },
+    "homepage": "https://github.com/Bryanpb14/GULP-Y-SASS#readme",
+    "devDependencies": {
+        "dart-sass": "^1.25.0",
+        "gulp": "^4.0.2",
+        "gulp-sass": "^4.1.0",
+        "node-sass": "^6.0.0"
+    }
+}
